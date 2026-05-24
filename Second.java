@@ -6,5 +6,6 @@ public class Second {
         for(int i = 0 ;i<2;i++){
             System.out.println(num);
         }
+        int b = 1;
     }
 }
